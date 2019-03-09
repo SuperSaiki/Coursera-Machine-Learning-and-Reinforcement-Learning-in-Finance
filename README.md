@@ -1,5 +1,6 @@
 # Coursera Specialization: Machine Learning and Reinforcement Learning in finance
 Notes about cousera online course: ml and rl in finance.
+
 References:
 
 [handson-ml with scikit-learn and TensorFlow](https://github.com/ageron/handson-ml)
