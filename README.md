@@ -12,7 +12,7 @@ References:
 
 [Week2: Mathematical Foundations of Machine Learning](https://github.com/SuperSaiki/Coursera-Machine-Learning-and-Reinforcement-Learning-in-Finance/blob/master/1.2%20Mathematical%20Foundations%20of%20Machine%20Learning.md)
 
-
 [Week3:  Introduction to Neural Networks and TensorFlow](https://github.com/SuperSaiki/Coursera-Machine-Learning-and-Reinforcement-Learning-in-Finance/blob/master/1.3%20Introduction%20to%20Supervised%20Learning.md)
 
+[Week4:  Supervised learning in finance](https://github.com/SuperSaiki/Coursera-Machine-Learning-and-Reinforcement-Learning-in-Finance/blob/master/1.4%20Supervised%20Learning%20in%20Finance.md)
 
