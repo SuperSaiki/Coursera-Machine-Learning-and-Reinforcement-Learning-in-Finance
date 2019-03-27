@@ -16,3 +16,5 @@ References:
 
 [Week4:  Supervised learning in finance](https://github.com/SuperSaiki/Coursera-Machine-Learning-and-Reinforcement-Learning-in-Finance/blob/master/1.4%20Supervised%20Learning%20in%20Finance.md)
 
+## Course2: Fundamentals of machine learning in finance
+[fundamentals of Machine Learning in Finance](https://github.com/SuperSaiki/FundamentalsofMachineLearninginFinance)
